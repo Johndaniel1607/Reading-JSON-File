@@ -1,0 +1,14 @@
+﻿<Window x:Class="TVLICT201.JSONReader.Windows.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TVLICT201.JSONReader.Windows"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btnEmployee" Content="Employee" HorizontalAlignment="Left" Margin="10,44,0,0" VerticalAlignment="Top" Width="281" Height="34" Click="btnEmployee_Click"/>
+        <Button x:Name="btnTyphoon" Content="Typhoon" HorizontalAlignment="Left" Height="38" Margin="10,92,0,0" VerticalAlignment="Top" Width="281" Click="btnTyphoon_Click"/>
+
+    </Grid>
+</Window>

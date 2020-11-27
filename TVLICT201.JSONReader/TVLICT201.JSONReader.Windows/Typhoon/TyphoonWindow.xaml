@@ -1,0 +1,18 @@
+﻿<Window x:Class="TVLICT201.JSONReader.Windows.Typhoon.TyphoonWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TVLICT201.JSONReader.Windows.Typhoon"
+        mc:Ignorable="d"
+        Title="TyphoonWindow" Height="450" Width="800">
+    <Grid>
+        <Label x:Name="lblTitle" Content="Typhoon" HorizontalAlignment="Left" Height="28" Margin="10,23,0,0" VerticalAlignment="Top" Width="324"/>
+        <Label x:Name="lblTyphoonId" Content="Label" HorizontalAlignment="Left" Height="32" Margin="10,72,0,0" VerticalAlignment="Top" Width="297"/>
+        <Label x:Name="lblTyphoonName" Content="Label" HorizontalAlignment="Left" Height="39" Margin="10,120,0,0" VerticalAlignment="Top" Width="297"/>
+        <Label x:Name="lblTyphoonDate" Content="Label" HorizontalAlignment="Left" Height="40" Margin="10,179,0,0" VerticalAlignment="Top" Width="297"/>
+        <Label x:Name="lblTyphoonPressure" Content="Label" HorizontalAlignment="Left" Height="37" Margin="10,235,0,0" VerticalAlignment="Top" Width="297"/>
+        <Label x:Name="lblTyphoonWinds" Content="Label" HorizontalAlignment="Left" Height="59" Margin="10,285,0,0" VerticalAlignment="Top" Width="284"/>
+
+    </Grid>
+</Window>

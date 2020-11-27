@@ -1,0 +1,18 @@
+﻿<Window x:Class="TVLICT201.JSONReader.Windows.Employee.EmployeeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TVLICT201.JSONReader.Windows.Employee"
+        mc:Ignorable="d"
+        Title="EmployeeWindow" Height="247.297" Width="575.676">
+    <Grid>
+        <Label x:Name="lblTitle" Content="Employee" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Height="27" Width="224"/>
+        <Label x:Name="lblEmployeeId" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="26,42,0,0" Width="233" Height="26"/>
+        <Label x:Name="lblEmployeeFirstName" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="26,73,0,0" Width="233" Height="26"/>
+        <Label x:Name="lblEmployeeLastName" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="26,104,0,0" Width="233" Height="26"/>
+        <Label x:Name="lblEmployeeEmailAddress" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="26,135,0,0" Width="233" Height="26"/>
+        <Label x:Name="lblEmployeeSalary" Content="Label" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="26,166,0,0" Width="233" Height="26"/>
+
+    </Grid>
+</Window>

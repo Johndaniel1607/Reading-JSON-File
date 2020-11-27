@@ -1,0 +1,42 @@
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\bin\Debug\TVLICT201.JSONReader.Windows.exe.config
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\bin\Debug\TVLICT201.JSONReader.Windows.exe
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\bin\Debug\TVLICT201.JSONReader.Windows.pdb
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows.csprojAssemblyReference.cache
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\App.g.cs
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows_MarkupCompile.cache
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows_MarkupCompile.lref
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\MainWindow.baml
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows.g.resources
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows.Properties.Resources.resources
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows.csproj.GenerateResource.cache
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows.csproj.CoreCompileInputs.cache
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows.exe
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows.pdb
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows.csproj.CopyComplete
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\Employee\EmployeeWindow.g.cs
+C:\Users\goshe\OneDrive\Documents\Personal\TVLICT201.JSONReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\Employee\EmployeeWindow.baml
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\bin\Debug\TVLICT201.JSONReader.Windows.exe.config
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\bin\Debug\TVLICT201.JSONReader.Windows.exe
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\bin\Debug\TVLICT201.JSONReader.Windows.pdb
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\Employee\EmployeeWindow.g.cs
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\MainWindow.g.cs
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\App.g.cs
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows_MarkupCompile.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows_MarkupCompile.lref
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\Employee\EmployeeWindow.baml
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\MainWindow.baml
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows.g.resources
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows.csproj.GenerateResource.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows.csproj.CopyComplete
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows.exe
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\TVLICT201.JSONReader.Windows.pdb
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\Typhoon\TyphoonWindow.g.cs
+C:\Users\TOSHIBA\Desktop\major ICT\Project4\TVLICT201.JsonReader\TVLICT201.JSONReader\TVLICT201.JSONReader.Windows\obj\Debug\Typhoon\TyphoonWindow.baml
